@@ -16,7 +16,7 @@
 
 ## Apuntes y notas
 
-- [Link](apunteteorico.pdf)
+- [apunteteorico.pdf](apunteteorico.pdf)
 
 ## Otros materiales
 
